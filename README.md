@@ -9,7 +9,7 @@ A total of 73 customers, aged between 24 and 81 years old, were surveyed. Of the
 
 Attribute Information:
 
-Number Name Description Admissible values
+##### Number Name Description Admissible values
 1 Sex Sex of the client Male, Female, ?1
 2 Age Age of the client 0-100, ?
 3 Country Country of the client United Nations admitted countries, ?
